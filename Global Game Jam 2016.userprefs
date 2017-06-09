@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Train Jam 2016 - Amgry Greedy Pirates/Assets/Scripts/Genreral/game.cs">
+    <Files>
+      <File FileName="../Train Jam 2016 - Amgry Greedy Pirates/Assets/Scripts/Genreral/game.cs" Line="91" Column="75" />
+      <File FileName="../Train Jam 2016 - Amgry Greedy Pirates/Assets/Scripts/ships/ShipController.cs" Line="28" Column="1" />
+      <File FileName="../Train Jam 2016 - Amgry Greedy Pirates/Assets/Scripts/ships/GhostShip.cs" Line="15" Column="1" />
+      <File FileName="../Train Jam 2016 - Amgry Greedy Pirates/Assets/Scripts/ships/BaseController.cs" Line="19" Column="45" />
+      <File FileName="../Train Jam 2016 - Amgry Greedy Pirates/Assets/Scripts/UI/Goods_Show.cs" Line="17" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
